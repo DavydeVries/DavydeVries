@@ -51,7 +51,7 @@ _Built internal API monitoring & automation tools._
 💬 **Let’s talk tech, automation, or escape rooms!**  
 📧 [me@davy.dev](mailto:me@davy.dev)  
 🗝️ [Escape Hotel](https://escapehotel.be)  
-🏴‍☠️ [Spyrate.io](https://spyrate.io)
+🏴‍☠️ [Spyrate.io](https://spyrate.io)  
 🐥 [Twitter](https://twitter.com/DavyDeVries)  
 💼 [LinkedIn](http://linkedin.com/in/davy-de-vries/)  
 
