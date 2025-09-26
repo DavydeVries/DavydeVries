@@ -1,26 +1,19 @@
 ## **👋 Hey, I'm Davy de Vries!**  
-🚀 **Solution Architect & Backend Developer** | 🎭 Escape Room Owner | 🏴‍☠️ Founder of Spyrate.io  
+🚀 **Solution Architect & Backend Developer** | 🎭 Escape Room Owner
 
 I specialize in **PHP (Laravel), Tailwind CSS, API integrations, automation, and Next.js**. I build **scalable backend systems**, optimize performance, and love crafting immersive experiences—both in tech and in my escape room.  
 
 💻 **Most of my work is private**, but here’s what I do:  
 - 🏗 **Solution Architect @ Prepr** – Building scalable CMS & API solutions  
-- 🕵️‍♂️ **Founder of Spyrate.io** – A B2B monitoring tool for tracking pricing pages  
 - 🔒 **Escape Hotel Owner** – Designing real-world mystery experiences  
 - 🛠 **Laravel, Tailwind CSS, Vue.js, Next.js** – Full-stack web development  
 - ⚡ **Automation & Monitoring** – API integrations, event-driven systems  
-- 🌐 **Next.js for Web Development** – Building the Prepr.io marketing website and Spyrate.io with Next.js  
+- 🌐 **Next.js for Web Development** – Building the Prepr.io marketing website with Next.js  
 
 ---
 
 ### **📌 Featured Projects**
 🚨 While most of my projects are private, here are some highlights:  
-
-#### **🕵️‍♂️ Spyrate.io**  
-_A monitoring tool that screen captures websites to track competitor pricing._  
-💡 **Tech Stack:** Laravel, Tailwind CSS, Puppeteer, Stripe, Vercel, Next.js  
-🛠 **Features:** Automated screenshots, competitor tracking, B2B focus  
-🚧 **Status:** 🎧 In development – [Join the waitlist](https://spyrate.io/)  
 
 #### **🔒 Escape Hotel Booking System**  
 _A custom-built booking system for my escape room business._  
@@ -51,7 +44,6 @@ _Built internal API monitoring & automation tools._
 💬 **Let’s talk tech, automation, or escape rooms!**  
 📧 [me@davy.dev](mailto:me@davy.dev)  
 🗝️ [Escape Hotel](https://escapehotel.be)  
-🏴‍☠️ [Spyrate.io](https://spyrate.io)  
 🐥 [Twitter](https://twitter.com/DavyDeVries)  
 💼 [LinkedIn](http://linkedin.com/in/davy-de-vries/)  
 
@@ -64,7 +56,6 @@ _Built internal API monitoring & automation tools._
 ---
 
 ### **📚 What’s Next?**
-- [ ] 🚀 Launch **Spyrate.io**  
 - [ ] 📖 Write more about **Laravel, Tailwind & Next.js**  
 - [ ] 🎭 Expand the **Escape Hotel experience**  
 
